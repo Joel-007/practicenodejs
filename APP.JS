@@ -1,0 +1,1 @@
+const boot = require('bootstrap')
